@@ -1,6 +1,6 @@
 Welcome to the repository of my portfolio page.
 
-On my portfolio page at aabhi96.github.io/portfolio/ I showcase select projects that I have done in my free time.
+On my portfolio page at (aabhi96.github.io/portfolio/) I showcase select projects that I have done in my free time.
 Projects on my portfolio
 
 Currently, you can find more detailed write-ups of my projects:
