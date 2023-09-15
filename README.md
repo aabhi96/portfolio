@@ -1,6 +1,3 @@
-
- [here](https://aabhi96.github.io/portfolio/) 
-
 Welcome to my portfolio repository!
 
 Here, I proudly present a curated selection of personal projects that reflect my passion for data analysis and visualization. These projects provide insights into my skills and the areas of data analysis I'm passionate about.
