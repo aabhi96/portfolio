@@ -9,4 +9,4 @@ Currently, you can find more detailed write-ups of my projects:
 2. Tableau Dashboard for COVID 19: A small dashboard created using the SQL queries from my Covid data exploration to visually understand its impact.
 3. Nashville Housing Data Cleaning: A number of Queries I did to transform raw data into a more suitable version that could be used for Analysis purposes.
 4. Dashboards using sample Data sets from Kraggle for Walmart and a generic store for customer analysis.
-# portfolio
+
